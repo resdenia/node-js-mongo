@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "resdeni",
+    "MONGO_PASSWORD": "resdeni5484834",
+    "MONGO_DB": "shop",
+    "STRIPE_KEY": "sk_test_51Gz5N6FwSSqkBSAclqa7WC6gbRGE8H2XWnuAI4LdXWNcUJsFXtYfeLwjUO3PGTd57oO71OtX9LdCSTk8KmDFhbzK00LqL4ygYx"
+  }
+}
